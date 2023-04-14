@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-14T07:59:32.312Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.0.0" etag="9Jygz92EEezrNprryFpn" version="21.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-14T08:05:22.433Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.0.0" etag="qSyIbVbtpYLaj-_Bzbzx" version="21.1.7" type="github">
   <diagram name="第 1 页" id="4XB7JFKkOnBG5gGi_P8B">
     <mxGraphModel dx="1416" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,13 +22,14 @@
         <mxCell id="mW4Ink5AOVUGKcEt3jjE-11" value="选择支付过的卡" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mW4Ink5AOVUGKcEt3jjE-4" target="mW4Ink5AOVUGKcEt3jjE-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mW4Ink5AOVUGKcEt3jjE-32" value="t退出权益卡页面" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mW4Ink5AOVUGKcEt3jjE-4">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="mW4Ink5AOVUGKcEt3jjE-32" value="退出权益卡页面" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mW4Ink5AOVUGKcEt3jjE-4">
+          <mxGeometry x="0.0044" relative="1" as="geometry">
             <mxPoint x="440" y="170" as="targetPoint" />
             <Array as="points">
               <mxPoint x="500" y="280" />
               <mxPoint x="500" y="170" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mW4Ink5AOVUGKcEt3jjE-4" value="权益卡列表" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;" vertex="1" parent="1">
@@ -68,9 +69,11 @@
             <mxPoint x="150.05999999999995" y="691.02" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mW4Ink5AOVUGKcEt3jjE-29" value="t填写正确" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mW4Ink5AOVUGKcEt3jjE-23">
+        <mxCell id="mW4Ink5AOVUGKcEt3jjE-29" value="填写正确" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="330" y="565" as="targetPoint" />
+            <mxPoint x="210" y="565" as="sourcePoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mW4Ink5AOVUGKcEt3jjE-23" value="填写使用权益卡优惠券的姓名和身份证号码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
